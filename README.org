@@ -1,0 +1,5 @@
+#+title: FaoziTech API-AI Collection
+
+* Introduction
+This is just faoziTech API collection for ai
+ 
