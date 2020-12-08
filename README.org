@@ -2,4 +2,23 @@
 
 * Introduction
 This is just faoziTech API collection for ai
+
+* What you must do ?
+** Install dependency
+Some dependencies are require to compile this code to make miracle happen
+when i use python on my arch, i shoud enter in virtual environment mode
+i named it aishiteru
+#+BEGIN_SRC bash
+pip -m venv aishiteru
+source bin/activate
+#+END_SRC
+then install django
+#+BEGIN_SRC bash
+pip -m pip install Django
+#+END_SRC
+** And How to run Env?
+Just run as like 
+#+BEGIN_SRC bash
+python manage.py runserver
+#+END_SRC 
  
